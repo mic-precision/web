@@ -1,4 +1,5 @@
 User-agent: *
+Disallow: /HTML/
 Allow: /
 
 Sitemap: https://mic-precision.fr/sitemap.xml
